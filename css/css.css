@@ -102,7 +102,7 @@ header h1 {
   padding: 0px;
   display: flex;
   overflow: hidden;
-  width: 100;
+  width: 100%;
   /* 使用百分比单位 */
   height: auto;
   position: relative;
