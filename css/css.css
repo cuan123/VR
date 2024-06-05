@@ -23,7 +23,7 @@ body {
   background: url("../images/bg_1.png");
   z-index: 1;
   /* max-width: 1920px;*/
-  background-size: auto;
+  background-size: 100% 100%;
   /* 水平和垂直方向填充100% */
   background-repeat: no-repeat;
   background-size: cover; /* 覆盖整个可视区域 */
@@ -50,11 +50,11 @@ header h1 {
   padding: 0px;
   display: flex;
   overflow: hidden;
-  width: auto;
+  width: 100%;
   /* 使用百分比单位 */
   height: auto;
   position: relative;
-  aspect-ratio: 12 / 6;
+  aspect-ratio: 12 / 7;
   /* 设置宽高比 */
 }
 
