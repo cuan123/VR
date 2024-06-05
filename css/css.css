@@ -23,7 +23,7 @@ body {
   background: url("../images/bg_1.png");
   z-index: 1;
   /* max-width: 1920px;*/
-  background-size: 100% 100%;
+  background-size: auto;
   /* 水平和垂直方向填充100% */
   background-repeat: no-repeat;
   background-size: cover; /* 覆盖整个可视区域 */
