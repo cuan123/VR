@@ -90,7 +90,7 @@ header h1 {
   /* 将宽度设置为自动 */
   padding: 5px;
 }
-@media (max-width: 400px) {  
+@media (max-width: 200px) {  
   .stats {  
     width:100%;
      height: auto;
@@ -104,7 +104,7 @@ header h1 {
   overflow: hidden;
   width: 100%;
   /* 使用百分比单位 */
-  height: 3rem;
+  height: 1rem;
   position: relative;
   /* 设置宽高比 */
 }
