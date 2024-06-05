@@ -50,9 +50,9 @@ header h1 {
   padding: 0px;
   display: flex;
   overflow: hidden;
-  width: auto;
+  width: 100%;
   /* 使用百分比单位 */
-  height: auto;
+  height: 100%;
   position: relative;
   aspect-ratio: 29 / 12;
   /* 设置宽高比 */
