@@ -54,7 +54,7 @@ header h1 {
   /* 使用百分比单位 */
   height: auto;
   position: relative;
-  aspect-ratio: 12 / 7;
+  aspect-ratio: 29 / 12;
   /* 设置宽高比 */
 }
 
