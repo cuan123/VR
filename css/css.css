@@ -103,7 +103,7 @@ header h1 {
   overflow: hidden;
   width: auto;
   /* 使用百分比单位 */
-  height: auto;
+  height: 2rem;
   position: relative;
   aspect-ratio: 2/1;
   /* 设置宽高比 */
